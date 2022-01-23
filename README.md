@@ -18,26 +18,9 @@ pip install -r requirements.txt
 For features check help
 
 ```bash
-python3 src/Python/Depth_Estimation.py --h
+python3 run.py --h
 ```
-
 ---
-
-## C++ Version
-
-### Requirements
-
-- [Cmake](https://cmake.org/download/) 2.8 or higher
-- OpenCV
-- PCL 1.2
-
-### Usage
-
-```bash
-mkdir build
-cd build
-cmake ..
-make
-./stereo
-./stereo filename
-.stereo filename
+## Results
+<img src="assets/image1.jpg">Disparity Map</img>
+<img src="assets/image2.png">3D Visualization</img>
