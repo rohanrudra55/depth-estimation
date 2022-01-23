@@ -2,7 +2,7 @@
 
 Depth estimation from stereo images using disparity calculation algorithms.
 
-## Python Version
+---
 
 ### Requirements
 
